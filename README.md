@@ -44,3 +44,10 @@ An episode ends if:
 The RL model has shown the ability to progressively increase the agent's net worth. However, high variance in rewards and a slight dip in performance towards the end of training suggest potential overfitting. Continuous adaptation is necessary for developing a robust and generalizable strategy.
 
 ![Learning Curve](images/Figure_1.png)
+
+In conclusion, the model shows learning and improvement in the task of stock trading but also exhibits a degree of inconsistency. The key takeaway is that while the average performance is good, there's room for improvement in terms of the stability and reliability of the trading strategy. Future work could involve refining the model to reduce variance, potentially by tuning hyperparameters, enhancing the state representation, or implementing a more sophisticated reward structure to guide the agent toward more consistent strategies.
+
+
+
+
+
